@@ -39,13 +39,13 @@ tile.blocks.purifier.name=Purifieur
 tile.blocks.purifier.info=Désenchanteur
 tile.blocks.darkBrick.name=Briques sombres
 tile.blocks.darkBloodBrick.name=Briques de sang sombres
-tile.blocks.spiritFurnace.name=four d'esprit
-tile.blocks.spiritFurnace.info=Cuisiner des esprits de vengeance pour obtenir leurs drops.
+tile.blocks.spiritFurnace.name=Four d'esprit
+tile.blocks.spiritFurnace.info=Cuisiner des esprits de vengeance pour obtenir leurs butins.
 tile.blocks.spiritFurnace.help.invalid=Impossible à cuisiner
 tile.blocks.spiritFurnace.help.invalid.noEntity=Vide ou pas de boîte
 tile.blocks.spiritFurnace.help.invalid.contentSize=Taille du contenu: %s
 tile.blocks.spiritFurnace.help.invalid.requiredSize=Taille requise: %s
-tile.blocks.spiritFurnace.help.invalid.forceHalt=Plus d'espace pour les drops
+tile.blocks.spiritFurnace.help.invalid.forceHalt=Plus d'espace pour les butins
 tile.blocks.spiritFurnace.help.invalid.caughtError=Créature esprit invalide. Contactez le dev du mod.
 tile.blocks.boxOfEternalClosure.name=Boîte de fermeture éternelle
 tile.blocks.boxOfEternalClosure.info.content=Contenu: %s
@@ -249,39 +249,39 @@ biomes.biomeDegraded=Dégradé
 potions.paling=Pâlissant
 
 # Achievements
-achievement.evilcraft.evilSource=A True Source of Evil
-achievement.evilcraft.evilSource.desc=Obtain a copy of the Origins of Darkness by throwing a book into the anomaly resulting from feeding a Darkened Apple to an animal.
-achievement.evilcraft.fart=Learn to Fart
-achievement.evilcraft.fart.desc=Finally release all of those nasty gases.
-achievement.evilcraft.firstAge=First Age
-achievement.evilcraft.firstAge.desc=Discover the origins of the first evil age by mining some Dark Gems.
-achievement.evilcraft.secondAge=Second Age
-achievement.evilcraft.secondAge.desc=Initiate the second evil age by crafting a Blood Extractor.
-achievement.evilcraft.masterDistorter=Master Distorter
-achievement.evilcraft.masterDistorter.desc=Distort over ten mobs at once with the Mace of Distortion.
-achievement.evilcraft.spiritCooker=Mob Chef
-achievement.evilcraft.spiritCooker.desc=Make a spirit furnace.
-achievement.evilcraft.closure=Eternal Closure
-achievement.evilcraft.closure.desc=Use the Vengeance Focus to entangle a Vengeance Spirit.
-achievement.evilcraft.playerDistorter=Player Distorter
-achievement.evilcraft.playerDistorter.desc=Distort a player with the Mace of Distortion.
-achievement.evilcraft.playerDevastator=Player Devastator
-achievement.evilcraft.playerDevastator.desc=Attack a player using zombies spawned from a Necromancer Staff.
-achievement.evilcraft.powerCrafting=Power Crafting
-achievement.evilcraft.powerCrafting.desc=Craft an Exalted Crafter, craft-ception!
-achievement.evilcraft.cannibal=Cannibal
-achievement.evilcraft.cannibal.desc=Eat some Humanoid Flesh.
+achievement.evilcraft.evilSource=Une véritable source du mal
+achievement.evilcraft.evilSource.desc=Obtenez une copie des Origines de l'obscurité en jetant un livre dans l'anomalie résultante du nourissage d'un animal avec une Pomme assombrie.
+achievement.evilcraft.fart=Apprenez à péter
+achievement.evilcraft.fart.desc=Libérez finalement tous ces méchants gaz.
+achievement.evilcraft.firstAge=Premier âge
+achievement.evilcraft.firstAge.desc=Découvrez les origines du premier mauvais âge en extrayant quelques Gemmes sombres.
+achievement.evilcraft.secondAge=Second âge
+achievement.evilcraft.secondAge.desc=Amorcez le deuxième mauvais âge en fabriquant un Extracteur de sang.
+achievement.evilcraft.masterDistorter=Maître d'altération
+achievement.evilcraft.masterDistorter.desc=Altérez plus de dix créatures d'un coup avec la Masse d'altération.
+achievement.evilcraft.spiritCooker=Chef des créatures
+achievement.evilcraft.spiritCooker.desc=Fabriquez un Four d'esprit.
+achievement.evilcraft.closure=Enfermement éternel
+achievement.evilcraft.closure.desc=utilisez un Foyer de vengeance pour empêtrer un Esprit de vengeance.
+achievement.evilcraft.playerDistorter=Altération de joueur
+achievement.evilcraft.playerDistorter.desc=Altérez un joueur avec la Masse d'altération.
+achievement.evilcraft.playerDevastator=Dévatation de joueur
+achievement.evilcraft.playerDevastator.desc=Attaquez un joueur avec les zombies invoqué par le Bâton de nécromancien.
+achievement.evilcraft.powerCrafting=Pouvoir de fabrication
+achievement.evilcraft.powerCrafting.desc=Fabriquez un Atelier exalté, ex-ceptionnel !
+achievement.evilcraft.cannibal=Cannibale
+achievement.evilcraft.cannibal.desc=Mangez un peu de Chair humanoïde.
 
 # Gui
-gui.exaltedCrafting=Exalted Crafting
-gui.waila.tankConfig=Tank contents
-gui.waila.innerBlocksConfig=Actual inner blocks
+gui.exaltedCrafting=Fabrication exaltée
+gui.waila.tankConfig=Contenu de réservoir
+gui.waila.innerBlocksConfig=Blocs intérieurs réels
 
 # ------ Origins of Darkness contents ------
-infoBook.section.main=Origins of Darkness
+infoBook.section.main=Origines de l'obscurité
 infoBook.tagIndex=&oIndex&r
 
-infoBook.preface=Preface
+infoBook.preface=Préface
 infoBook.preface.text1=It would seem this world holds more than meets the eye. There are things I will conclude in this book, my writings of acquired knowledge of the obscurity that resides here. I have discovered a dark way of living with the creatures of this world. “&oWhat evil will come of this&r”, I ask myself? “&oEvil lurks in every corner&r”, I hear a dark voice within me reply. I have discovered a few secrets within this vast world of silly villagers and zombies, something their puny minds will never comprehend.
 infoBook.preface.text2=Many kinds of magic exist in this world, but the kind you can achieve with &4Blood&0 seems different. I've noticed people cutting themselves for obtaining &4Blood&0, I prefer to spare my strength for some other things...
 
@@ -290,7 +290,7 @@ infoBook.structure.text1=This book is split into two major parts, for the two ag
 infoBook.structure.text2=You can navigate through this book by clicking on the arrows at the bottom, shift clicking will flip through whole sections instead of single pages. At the start of large sections you will see a content table which will contain hyperlinks to its subsections for faster browsing. When you come across recipes, the items that are explained in this book are clickable as a fast reference to the section they are explained in. You will also notice a button at the top left of this book, which will take you to the section above your current one. The button at the top right corner will go back to the previously visited page each time when clicked.
 
 # --- First Age ---
-infoBook.firstAge=First Age
+infoBook.firstAge=Premier âge
 
 # - A Strange New World -
 infoBook.firstAge.newWorld=A Strange New World
@@ -383,7 +383,7 @@ infoBook.firstAge.vengeanceSpirits.spiritProtection=Spirit Protection
 infoBook.firstAge.vengeanceSpirits.spiritProtection.text=These spirits can do some nasty damage if you’re not careful. I noticed that these spirits seem to be annoyed by &1Dark Gems&0, but they still ignore feeling that if they see you. The power of fire and a larger amount of &1Dark Gems&0 seems to change the way the spirits attack you though. Instead of taking damage, you will now only be a bit more hungry, which might be better than the alternative.
 
 # --- Second Age ---
-infoBook.secondAge=Second Age
+infoBook.secondAge=Second âge
 
 # - Powers of Blood -
 infoBook.secondAge.powersOfBlood=The Powers of Blood
